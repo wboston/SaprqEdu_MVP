@@ -1,15 +1,13 @@
 # Sparq_SaprqMVP
 
-## Branch: Anahita
+## Branch: Staging
 ### Version: 4.3.11
-### This branch is to be able to download the most rescent version of anahita into the project
 
-------------
+## Package List:
+------
 
 
-![Anahita social networking platform and framework](https://s3.amazonaws.com/anahitapolis.com/media/logos/homepage_logo.png)
-
-# Anahita
+# Anahita Info
 
 *Version:* 4.3.11 Birth Release
 
